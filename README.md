@@ -1,6 +1,6 @@
 # Local business websites
 
-24 demo websites for independent businesses, mostly around Brentwood and Essex.
+24 demo websites for independent businesses, many of them around Brentwood and Essex.
 
 > These are speculative demos. I built each one unprompted to show a business what its site could look like. None was commissioned and none is the business's official site.
 
@@ -19,14 +19,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/sallys.jpg" alt="Sally's Cleaning homepage">
-      <b>Sally's Cleaning</b> · Domestic cleaner<br>
-      Light, warm and calm, making a small cleaning business look established.
+      <img src="assets/trident.jpg" alt="Trident Gym site">
+      <b>Trident Gym</b> · Gym<br>
+      24/7 strength gyms across the UK, with each gym getting its own page.
     </td>
     <td width="50%" valign="top">
-      <img src="assets/highlife.jpg" alt="High Life Investments homepage">
-      <b>High Life Investments</b> · Property investment<br>
-      A discreet, monochrome rebrand for a Wimbledon property firm.
+      <img src="assets/tipsy.jpg" alt="Tipsy Tapioca homepage">
+      <b>Tipsy Tapioca</b> · Bubble tea<br>
+      Boozy bubble tea in Bristol: loud, colourful and built to get people through the door.
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-The other 18 cover a tree surgeon, a personal trainer, gyms, a lash studio, a roofer, a plasterer, a cake maker, a builder, a butcher, a bakery, a photographer, a nail salon and several restaurants and bars.
+The other 18 cover a tree surgeon, a cleaner, a personal trainer, a property firm, a lash studio, a roofer, a plasterer, a cake maker, a builder, a butcher, a bakery, a photographer, a nail salon and several restaurants and bars.
 
 ## How each one is made
 
