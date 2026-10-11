@@ -7,9 +7,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/aarons.jpg" alt="Aaron's Tree Surgery homepage">
-      <b>Aaron's Tree Surgery</b> · Tree surgeon<br>
-      A grounded, natural site that puts 203 five-star reviews front and centre.
+      <img src="assets/pastasciutta.jpg" alt="Pastasciutta homepage">
+      <b>Pastasciutta</b> · Italian deli<br>
+      The Ingatestone risto-deli: pasta, wine and a room you can almost smell from the homepage.
     </td>
     <td width="50%" valign="top">
       <img src="assets/hmv.jpg" alt="HMV Mobile Mechanics homepage">
@@ -36,14 +36,14 @@
       An elegant black and gold site for a Sri Lankan Tamil restaurant in Wimbledon.
     </td>
     <td width="50%" valign="top">
-      <img src="assets/mortons.jpg" alt="Mortons Personal Fitness homepage">
-      <b>Mortons Personal Fitness</b> · Personal training<br>
-      A warm, motivating site for a friendly personal training club in Brentwood.
+      <img src="assets/studioone.jpg" alt="Studio One homepage">
+      <b>Studio One</b> · Barber<br>
+      Barber and grooming in Gants Hill: sharp, local and easy to book.
     </td>
   </tr>
 </table>
 
-The other 18 cover gyms, a lash studio, a roofer, a plasterer, a cake maker, a builder, an Italian deli, a butcher, a bakery, a barber, a photographer, a nail salon and several restaurants and bars.
+The other 18 cover a tree surgeon, a personal trainer, gyms, a lash studio, a roofer, a plasterer, a cake maker, a builder, a butcher, a bakery, a photographer, a nail salon and several restaurants and bars.
 
 ## How each one is made
 
