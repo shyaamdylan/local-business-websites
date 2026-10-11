@@ -12,9 +12,9 @@
       The Ingatestone risto-deli: pasta, wine and a room you can almost smell from the homepage.
     </td>
     <td width="50%" valign="top">
-      <img src="assets/hmv.jpg" alt="HMV Mobile Mechanics homepage">
-      <b>HMV Mobile Mechanics</b> · Mobile mechanic<br>
-      Bold and direct in the business's own red and cyan, built to bring in bookings.
+      <img src="assets/crc.jpg" alt="CRC Roofing homepage">
+      <b>CRC Roofing</b> · Roofline<br>
+      A straight-talking Essex roofline site: fascia, soffits and cladding, easy to call from the phone.
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-The other 18 cover a tree surgeon, a cleaner, a personal trainer, a property firm, a lash studio, a roofer, a plasterer, a cake maker, a builder, a butcher, a bakery, a photographer, a nail salon and several restaurants and bars.
+The other 18 cover a tree surgeon, a cleaner, a personal trainer, a property firm, a mobile mechanic, a lash studio, a plasterer, a cake maker, a builder, a butcher, a bakery, a photographer, a nail salon and several restaurants and bars.
 
 ## How each one is made
 
